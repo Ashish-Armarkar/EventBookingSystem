@@ -7,7 +7,7 @@ const EventDetails = () => {
   const [availableTicket, setAvaiableTicket] = useState(0);
   const [isBooked, setIsBooked] = useState({
     booking: "Book Now",
-    bgColor: "yellow",
+    bgColor: "gray",
   });
 
   const { id } = useParams();

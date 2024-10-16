@@ -1,0 +1,1 @@
+import{a as n,r as s,b as u,j as r}from"./index-B_FuGkUK.js";const c=({children:a})=>{const e=n(),{userCredentials:t}=s.useContext(u);return s.useEffect(()=>{t||e("/")},[t,e]),t?r.jsx(r.Fragment,{children:a}):null};export{c as default};
