@@ -11,7 +11,7 @@ function App() {
   return (
     <Suspense fallback={<div>Loding...</div>}>
       <MyProvider>
-        <Router>
+        <Router basename="/EventBookingSystem">
           <Routes>
             <Route path="/" element={<LoginDataLayer />} />
             <Route path={"/app"} element={<AccessGuard><Outlet /></AccessGuard>}>
