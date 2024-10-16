@@ -1,0 +1,1 @@
+const o=async()=>(await fetch("/users.json")).json(),c=async()=>(await fetch("/events.json")).json(),r=async s=>(await(await fetch("/events.json")).json()).find(a=>a.id==s.substring(1));export{c as a,r as e,o as u};

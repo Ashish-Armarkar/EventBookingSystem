@@ -1,0 +1,272 @@
+[
+    {   
+        "id": 1,
+        "title": "Summer Music Festival",
+        "description": "Enjoy a weekend filled with live music from top artists in the beautiful outdoors.",
+        "category": "Music",
+        "date": "2024-07-15",
+        "availableSeats": 500,
+        "price": 75
+    },
+    {
+        "id": 2,
+        "title": "Art Exhibition: Modern Perspectives",
+        "description": "Explore contemporary art from local artists in this inspiring exhibition.",
+        "category": "Art",
+        "date": "2024-08-10",
+        "availableSeats": 200,
+        "price": 20
+    },
+    {
+        "id": 3,
+        "title": "Tech Innovations Conference",
+        "description": "Join industry leaders to discuss the latest trends in technology and innovation.",
+        "category": "Technology",
+        "date": "2024-09-05",
+        "availableSeats": 300,
+        "price": 150
+    },
+    {
+        "id": 4,
+        "title": "Gourmet Food Festival",
+        "description": "Taste delicious dishes from renowned chefs and food trucks.",
+        "category": "Food",
+        "date": "2024-10-12",
+        "availableSeats": 1000,
+        "price": 50
+    },
+    {
+        "id": 5,
+        "title": "Yoga Retreat Weekend",
+        "description": "Relax and rejuvenate with yoga sessions and wellness workshops.",
+        "category": "Wellness",
+        "date": "2024-11-03",
+        "availableSeats": 50,
+        "price": 200
+    },
+    {
+        "id": 6,
+        "title": "Film Screening: Classic Cinema",
+        "description": "Join us for a night of classic films and discussion.",
+        "category": "Film",
+        "date": "2024-06-20",
+        "availableSeats": 150,
+        "price": 15
+    },
+    {
+        "id": 7,
+        "title": "Stand-Up Comedy Night",
+        "description": "Laugh out loud with performances from top comedians.",
+        "category": "Comedy",
+        "date": "2024-05-25",
+        "availableSeats": 300,
+        "price": 30
+    },
+    {
+        "id": 8,
+        "title": "Nature Photography Workshop",
+        "description": "Learn the art of photography in stunning natural settings.",
+        "category": "Photography",
+        "date": "2024-06-10",
+        "availableSeats": 25,
+        "price": 100
+    },
+    {
+        "id": 9,
+        "title": "Brewery Tour and Tasting",
+        "description": "Discover the brewing process and taste unique craft beers.",
+        "category": "Food & Drink",
+        "date": "2024-05-15",
+        "availableSeats": 40,
+        "price": 45
+    },
+    {
+        "id": 10,
+        "title": "Kids Science Fair",
+        "description": "A fun day of science experiments and activities for kids.",
+        "category": "Kids",
+        "date": "2024-04-30",
+        "availableSeats": 150,
+        "price": 10
+    },
+    {
+        "id": 11,
+        "title": "Charity Run for Health",
+        "description": "Participate in a charity run to support local health initiatives.",
+        "category": "Fitness",
+        "date": "2024-09-20",
+        "availableSeats": 500,
+        "price": 25
+    },
+    {
+        "id": 12,
+        "title": "Pottery Class for Beginners",
+        "description": "Get creative and learn the basics of pottery making.",
+        "category": "Arts & Crafts",
+        "date": "2024-07-22",
+        "availableSeats": 12,
+        "price": 70
+    },
+    {
+        "id": 13,
+        "title": "Wine Tasting Evening",
+        "description": "Enjoy an evening of exquisite wines and pairings.",
+        "category": "Food & Drink",
+        "date": "2024-08-15",
+        "availableSeats": 100,
+        "price": 60
+    },
+    {
+        "id": 14,
+        "title": "History Walk: The Old Town",
+        "description": "Explore the history of the old town on this guided walking tour.",
+        "category": "History",
+        "date": "2024-06-18",
+        "availableSeats": 30,
+        "price": 20
+    },
+    {
+        "id": 15,
+        "title": "Cooking Class: Italian Cuisine",
+        "description": "Learn to cook authentic Italian dishes with a professional chef.",
+        "category": "Food",
+        "date": "2024-07-05",
+        "availableSeats": 15,
+        "price": 85
+    },
+    {
+        "id": 16,
+        "title": "Outdoor Movie Night",
+        "description": "Watch classic movies under the stars with friends and family.",
+        "category": "Film",
+        "date": "2024-08-22",
+        "availableSeats": 200,
+        "price": 5
+    },
+    {
+        "id": 17,
+        "title": "Local Farmers Market",
+        "description": "Shop fresh produce and local goods at the farmers market.",
+        "category": "Market",
+        "date": "2024-09-01",
+        "availableSeats": 0,
+        "price": 0
+    },
+    {
+        "id": 18,
+        "title": "Dance Workshop: Salsa Night",
+        "description": "Learn salsa dancing with experienced instructors.",
+        "category": "Dance",
+        "date": "2024-05-30",
+        "availableSeats": 50,
+        "price": 40
+    },
+    {
+        "id": 19,
+        "title": "Book Fair: Meet the Authors",
+        "description": "Meet your favorite authors and explore new books.",
+        "category": "Literature",
+        "date": "2024-10-05",
+        "availableSeats": 400,
+        "price": 10
+    },
+    {
+        "id": 20,
+        "title": "Mindfulness Meditation Retreat",
+        "description": "A weekend retreat focused on mindfulness and meditation.",
+        "category": "Wellness",
+        "date": "2024-11-15",
+        "availableSeats": 30,
+        "price": 180
+    },
+    {
+        "id": 21,
+        "title": "Virtual Reality Gaming Night",
+        "description": "Experience the latest in virtual reality gaming.",
+        "category": "Gaming",
+        "date": "2024-09-12",
+        "availableSeats": 20,
+        "price": 35
+    },
+    {
+        "id": 22,
+        "title": "Pet Adoption Fair",
+        "description": "Find your new furry friend at the pet adoption fair.",
+        "category": "Animals",
+        "date": "2024-06-25",
+        "availableSeats": 0,
+        "price": 0
+    },
+    {
+        "id": 23,
+        "title": "Community Clean-Up Day",
+        "description": "Join us to clean up local parks and neighborhoods.",
+        "category": "Community",
+        "date": "2024-08-30",
+        "availableSeats": 100,
+        "price": 0
+    },
+    {
+        "id": 24,
+        "title": "Technology and Innovation Expo",
+        "description": "Explore the latest innovations in technology.",
+        "category": "Technology",
+        "date": "2024-10-20",
+        "availableSeats": 250,
+        "price": 100
+    },
+    {
+        "id": 25,
+        "title": "Hiking Adventure: Mountain Trail",
+        "description": "Join us for a scenic hike through the mountain trails.",
+        "category": "Outdoor",
+        "date": "2024-11-10",
+        "availableSeats": 50,
+        "price": 30
+    },
+    {
+        "id": 26,
+        "title": "Chess Tournament",
+        "description": "Compete in a friendly chess tournament with prizes.",
+        "category": "Games",
+        "date": "2024-07-08",
+        "availableSeats": 100,
+        "price": 10
+    },
+    {
+        "id": 27,
+        "title": "Art and Wine Night",
+        "description": "Sip wine while creating your own art masterpiece.",
+        "category": "Art & Drink",
+        "date": "2024-09-25",
+        "availableSeats": 30,
+        "price": 50
+    },
+    {
+        "id": 28,
+        "title": "Fitness Boot Camp",
+        "description": "Get in shape with a high-intensity fitness boot camp.",
+        "category": "Fitness",
+        "date": "2024-05-18",
+        "availableSeats": 40,
+        "price": 60
+    },
+    {
+        "id": 29,
+        "title": "Cooking Demo: Healthy Meals",
+        "description": "Learn to prepare healthy meals with fresh ingredients.",
+        "category": "Food",
+        "date": "2024-08-01",
+        "availableSeats": 25,
+        "price": 30
+    },
+    {
+        "id": 30,
+        "title": "DIY Home Improvement Workshop",
+        "description": "Learn practical skills for home improvement projects.",
+        "category": "Workshop",
+        "date": "2024-10-10",
+        "availableSeats": 15,
+        "price": 75
+    }
+]
